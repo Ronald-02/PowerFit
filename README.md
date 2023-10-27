@@ -35,5 +35,5 @@ Acquired and new knowledge such as REACT + NPM + REACT DOM + JAVASCRIPT + TAILWI
 
 <img align="right" height="200" src="https://github.com/Ronald-02/PowerFit/assets/112557309/260dd0f1-f416-47bc-8b9d-a8c9bf5c862e">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Made+Por+Ronald+Da+Silva;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Made+For+Ronald+Da+Silva;)](https://git.io/typing-svg)
 
