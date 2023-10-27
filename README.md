@@ -6,7 +6,7 @@
  <a href="power-fit-two.vercel.app">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Look+Here;)
  ## 📋 Project
 
-## Projeto para mostrar as disciplinas da academia e de como manter o corpo em forma.
+## Project to show gym disciplines and how to keep your body in shape.
 
 Acquired and new knowledge such as REACT + NPM + REACT DOM + JAVASCRIPT + TAILWIND CSS.
 
