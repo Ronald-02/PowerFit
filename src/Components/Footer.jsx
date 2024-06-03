@@ -39,7 +39,7 @@ const Footer = () => {
             </div>
             <div className='p-4 border-t-2 border-gray-500'>
                 <p className='text-lg text-center'> 
-                <small className='text-lg font-semibold'>Create by{" "}  <a className='text-primary cursor-pointer font-semibold text-lg' href="https://portifolio-lbhe.vercel.app/"><span> Ronald Da Silva</span></a></small><span> © 2023 All Right Reserved</span></p>
+                <small className='text-lg font-semibold'>Create by{" "}  <a className='text-primary cursor-pointer font-semibold text-lg' href="https://ronalddasilva.vercel.app/"><span> Ronald Da Silva</span></a></small><span> © 2023 All Right Reserved</span></p>
             </div>
         </div>
     )
