@@ -3,7 +3,7 @@
  ![PowerFit](https://github.com/Ronald-02/PowerFit/assets/112557309/3d568fe1-25db-4e53-bba8-8366cf201505)
 
 
- <a href="power-fit-two.vercel.app">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Look+Here;)
+ <a href="https://power-fit-two.vercel.app">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Look+Here;)
  ## 📋 Project
 
 ## Project to show gym disciplines and how to keep your body in shape.
